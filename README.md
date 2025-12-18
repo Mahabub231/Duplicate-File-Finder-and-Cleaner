@@ -1,7 +1,3 @@
-<img width="913" height="492" alt="output_4" src="https://github.com/user-attachments/assets/599334d9-34e5-4f1b-9631-f37ac514ce55" />
-<img width="913" height="576" alt="output_3" src="https://github.com/user-attachments/assets/742d0be1-8e10-4d2d-91d9-a3b15942990d" />
-<img width="913" height="950" alt="output_2" src="https://github.com/user-attachments/assets/f214d04e-538b-46a4-b5ff-d9a2f3a610b7" />
-<img width="913" height="701" alt="output_1" src="https://github.com/user-attachments/assets/801c2c03-928a-487e-a1a5-71d3f39bb445" />
 # Duplicate File Finder and Cleaner
 
 ## Description
@@ -37,5 +33,35 @@ This project works on **Linux and macOS** systems.
 
 ### Step 1: Open Terminal
 Navigate to the folder where the script file is saved.
-```bash
-cd /path/to/your/script
+
+
+<img width="913" height="701" alt="output_1" src="https://github.com/user-attachments/assets/801c2c03-928a-487e-a1a5-71d3f39bb445" />
+## Tools and Commands Used
+- Bash Shell  
+- `find` – for scanning files and folders  
+- `stat` – for checking file size  
+- `md5sum` – for generating hash values  
+- `sort` – for organizing data  
+- Bash loops, arrays, and conditional statements  
+
+<img width="913" height="492" alt="output_4" src="https://github.com/user-attachments/assets/599334d9-34e5-4f1b-9631-f37ac514ce55" />
+## Tools and Commands Used
+- Bash Shell  
+- `find` – for scanning files and folders  
+- `stat` – for checking file size  
+- `md5sum` – for generating hash values  
+- `sort` – for organizing data  
+- Bash loops, arrays, and conditional statements  
+
+<img width="913" height="576" alt="output_3" src="https://github.com/user-attachments/assets/742d0be1-8e10-4d2d-91d9-a3b15942990d" />
+
+## Tools and Commands Used
+- Bash Shell  
+- `find` – for scanning files and folders  
+- `stat` – for checking file size  
+- `md5sum` – for generating hash values  
+- `sort` – for organizing data  
+- Bash loops, arrays, and conditional statements  
+<img width="913" height="950" alt="output_2" src="https://github.com/user-attachments/assets/f214d04e-538b-46a4-b5ff-d9a2f3a610b7" />
+
+
